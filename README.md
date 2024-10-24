@@ -23,6 +23,10 @@ Esse projeto resolve diversos problemas, mas os principais são:
 
 ### Aplicativos usados
 * Lucidchart para modelagem de dados: (https://www.lucidchart.com/pages/pt)
+* Oracle Cloud para criação do banco autonomos database: https://www.oracle.com/br/cloud/
+* Sistema de geranciamento SQLdeveloper para manipulação: https://www.oracle.com/database/sqldeveloper/technologies/download/
+
+
 ## 2. Como se conectar ao banco de dados
 ***A versão do banco de dados usado para teste foi: oracle 19c Autonomos Database***
 
